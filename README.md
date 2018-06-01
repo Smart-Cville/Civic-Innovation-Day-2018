@@ -10,13 +10,27 @@ A repository of documentation for the 2018 Civic Innovation Day
 [Code for America](https://www.codeforamerica.org/) has developed a [code of conduct](https://github.com/codeforamerica/codeofconduct/blob/master/README.md) and an anti-harassment policy for this type of event.  We intend to use it as a guide to ensure our event remains positive, welcoming, and accepting.
 
 ## Schedule for the day
-//TODO
+9:00am- Arrival, Check-In, & Breakfast
+
+9:30am- Welcome & Code of Conduct
+
+9:40am- Challenge Partner Meet and Greet
+
+10:00am- Problem discovery
+
+12:00pm- Lunch and speaker Megan Juelfs
+
+1:00pm- Independent Team Time
+
+1:00pm- Parallel Workshop Series
+
+5:00pm- Project Presentations - invite friends and family!
+
 
 ## What to bring
-//TODO
+* Laptop and Charger
+* Reuseable water bottle
+* Layers of clothing/sweatshirt
 
 ## FAQ
-//TODO
-
-## SURVEY
-At the end of the event, [please complete our survey](https://docs.google.com/forms/d/e/1FAIpQLSezO6UIIwRWJwoB7Kk9Wz_dA_8Drq43FlXTiptOfc94d4DoMA/viewform)
+See our [last participant email](https://www.smartcville.com/?mailpoet_router&endpoint=view_in_browser&action=view&data=WzE0LCI4YWY3M2JlYzgxNjciLDAsMCwxMiwxXQ)
